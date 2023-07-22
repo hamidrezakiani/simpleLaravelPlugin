@@ -1,5 +1,5 @@
 {
-    "name": "hamid/Ticket",
+    "name": "hamid/ticket",
     "description": "crud ticket package",
     "type": "plugin",
     "autoload": {

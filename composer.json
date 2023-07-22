@@ -1,7 +1,7 @@
 {
     "name": "hamiddj/ticket",
     "description": "crud ticket package",
-    "license": "dev-master",
+    "license": "MIT",
     "type": "plugin",
     "autoload": {
         "psr-4": {

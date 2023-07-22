@@ -1,0 +1,27 @@
+{
+    "name": "hamid/Ticket",
+    "description": "crud ticket package",
+    "type": "plugin",
+    "autoload": {
+        "psr-4": {
+            "hamidrezakiani\\Ticket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hamidrezakiani",
+            "email": "hamidreza.behrad96@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2.4"
+    },
+
+    "extra": {
+        "laravel":{
+            "providers":[
+                "hamidrezakiani\\Ticket\\TicketServiceProvider"
+            ]
+        }
+    }
+}

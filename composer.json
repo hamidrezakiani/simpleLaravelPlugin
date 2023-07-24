@@ -2,7 +2,7 @@
     "name": "hamiddj/ticket",
     "description": "crud ticket package",
     "license": "MIT",
-    "type": "known-plugin",
+    "type": "plugin",
     "autoload": {
         "psr-4": {
             "hamidrezakiani\\Ticket\\": "src/"
